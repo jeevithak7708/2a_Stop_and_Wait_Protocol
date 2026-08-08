@@ -55,6 +55,23 @@ s.close()
 <img width="633" height="447" alt="Screenshot 2026-08-08 102334" src="https://github.com/user-attachments/assets/18732ff5-7914-4666-958c-b43c50a0da43" />
 
 ## OUTPUT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1302" height="376" alt="Screenshot 2026-08-08 102351" src="https://github.com/user-attachments/assets/46d39ea3-efe7-4589-bbfa-075f5802623c" />
 
 <img width="1297" height="387" alt="Screenshot 2026-08-08 102325" src="https://github.com/user-attachments/assets/ed92afdc-1249-491f-95bd-9d7c0f37a9d5" />
